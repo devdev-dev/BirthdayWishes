@@ -704,6 +704,7 @@ body, html{
 
 .third--canvas > img#gf1{
 	left: calc(50% - 323px);
+    top: calc(50% - 150px);
 }
 
 .third--canvas > img#gf2{
