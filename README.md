@@ -1,7 +1,7 @@
 # Happy Birthday Wishes
 
 Thisis my personalised version of the "Happy Birthday Wishing" website.
-See this reposity to learn more about the original version: [Coder's way of wishing](https://smilegupta.github.io/BirthdayWishes/)
+See this reposity to learn more about the original version: [Coder's way of wishing](https://github.com/smilegupta/BirthdayWishes)
 
 ## Technology Stack Used
 
