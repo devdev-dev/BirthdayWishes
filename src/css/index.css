@@ -34,7 +34,7 @@ body, html{
 	right:0;
 	background:#fcbb5e;
 	z-index: 3;
-	animation:firstSlideRemove 500ms ease 6s 1 forwards;
+	animation:firstSlideRemove 1500ms ease 6s 1 forwards;
 }
 
 @keyframes firstSlideRemove{
@@ -703,7 +703,7 @@ body, html{
 }
 
 .third--canvas > img#gf1{
-	left:35%;
+	left: calc(50% - 323px);
 }
 
 .third--canvas > img#gf2{
